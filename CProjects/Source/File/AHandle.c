@@ -8,8 +8,6 @@ void get_book();  // GETS ALL THE AVAILABLE BOOKS
 void check_avail();  // CHECKS WHETHER A BOOK IS AVAILABLE OR NOT
 void delete_book();
 int number_of_lines();
-void display_nth_record();
-void seek_f();
 
 typedef struct{
   char name[100];
@@ -37,12 +35,6 @@ int main(void){
         break;
       case 'D':
         delete_book();
-        break;
-      case 'N':
-        display_nth_record();
-        break;
-      case 'S':
-        seek_f();
         break;
       default:
         printf("UNKNOWN OPTION\n");
@@ -134,26 +126,5 @@ int number_of_lines(){
   }
   fclose(txt_file);
   return count;
-}
-
-void display_nth_record(){
-  int rec_num = 0;
-  printf("Enter Record Number: ");
-  scanf("%d", &rec_num);
-  getchar();
-  FILE *txt_file = fopen("Book.txt", "r");
-  Book new_book;
-
-  if(rec_num > number_of_lines()){
-    printf("SHEESH THAT'S WAY OUT OF OUR LEAGUE");
-    return;
-  }
-
-  for(int i = 0; i < number_of_lines(); i++){
-    fscanf(txt_file, "%s %s", new_book.name, new_book.author_name);
-    if(rec_num == i){
-      printf("BOOK: %s AUTHOR: %s\n", new_book.name, new_book.author_name);
-    } 
-  }
 }
 
