@@ -1,3 +1,9 @@
+# PROGRAMMING IN C LAB
+## Name: Nitin
+## Reg.No: 22110347
+
+<div style="page-break-after: always"></div>
+
 # LOOPS
 
 ## AIM:
@@ -41,7 +47,7 @@ int main(void){  
 ## OUTPUT:
 
 ```
-$ Vishal/Record/ ./Pattern
+$ Nitin/CProjects/ ./Pattern
 Enter the Number of Rows: 2
 *
 * *
@@ -61,9 +67,9 @@ user.
 Print a triangle shaped pattern using * like the pattern given below, get the number of rows as an input from the user.
 
 ```
-	*
-   * *
-  * * *
+*
+* *
+* * *
 ```
 
 ## ALGORITHM:
@@ -104,9 +110,9 @@ int main(void){
 ## OUTPUT:
 
 ```
-$ Vishal/Record/ ./Pattern
+$ Nitin/CProjects/ ./Pattern
 Enter the Number of Rows: 5
-	  *
+	*
    * *
   * * *
  * * * *
@@ -172,7 +178,7 @@ int main(void){
 ## OUTPUT:
 
 ```
-$ Vishal/Record/ ./BigSmall
+$ Nitin/CProjects/ ./BigSmall
 Enter the Number of Elements in the Array: 3
 Elem 0: 1
 Elem 1: 2
@@ -220,7 +226,7 @@ int main(void){
 ## OUTPUT:
 
 ```
-$ Vishal/Record/ ./Fivesum
+$ Nitin/CProjects/ ./Fivesum
 12345
 15
 ```
@@ -297,7 +303,7 @@ int main() {
 ## OUTPUT:
 
 ```
-$ Vishal/Record/ ./Denominations
+$ Nitin/CProjects/ ./Denominations
 AMOUNT: 1589
 Denominations:
 100: 	15
@@ -354,7 +360,7 @@ int main(void){
 ## OUTPUT:
 
 ```
-$ Vishal/Record/ ./Natural
+$ Nitin/CProjects/ ./Natural
 Enter N: 6
 0 1 2 3 4 5
 SUM: 15
@@ -410,7 +416,7 @@ int main(void){
 ## OUTPUT:
 
 ```
-$ Vishal/Record/ ./Fibonacci
+$ Nitin/CProjects/ ./Fibonacci
 Enter N: 4
 0 1 1 2 3 5
 ```
@@ -462,7 +468,7 @@ int main() {
 
 ## OUTPUT:
 ```
-$ Vishal/Records/ ./palindrome
+$ Nitin/CProjects/ ./palindrome
 Enter a string: Sheehs
 Sheehs is a palindrome
 ```
@@ -598,7 +604,7 @@ int main() {
 ## OUTPUT:
 
 ```
-$ Vishal/Records/ ./matrix_operations
+$ Nitin/CProjects/ ./matrix_operations
 Enter the number of rows for the first matrix: 2
 Enter the number of columns for the first matrix: 2
 Enter the element 1 1: 1
@@ -654,7 +660,7 @@ int main() {
 ```
 ## OUTPUT:
 ```
-$ Vishal/Records/ ./array_reverse
+$ Nitin/CProjects/ ./array_reverse
 Enter the length of the array: 5
 Enter the elements of the array:
 Enter the element at index 0: 1
@@ -772,7 +778,7 @@ int main() {
 
 ## OUTPUT:
 ```
-$ Vishal/Records/ ./sorting_and_searching
+$ Nitin/CProjects/ ./sorting_and_searching
 Enter the length of the array: 5
 Enter the element 1: 3
 Enter the element 2: 2
@@ -851,7 +857,7 @@ int main() {
 
 ## OUTPUT:
 ```
-$ Vishal/Records/ ./substring
+$ Nitin/CProjects/ ./substring
 Enter the string: HelloThere
 Enter the substring: llo
 The substring is present in the string 1 times
@@ -983,7 +989,7 @@ int main() {
 ```
 ## OUTPUT:
 ```
-$ Vishal/Records/ ./mean_median_mode
+$ Nitin/CProjects/ ./mean_median_mode
 Enter the size of the array: 5
 Enter the element 1: 1
 Enter the element 2: 2
@@ -1030,7 +1036,7 @@ int main() {
 
 ## OUTPUT:
 ```
-$ Vishal/Records/ ./string_to_ascii
+$ Nitin/CProjects/ ./string_to_ascii
 Enter the string: Hello
 The ascii characters are:
 The ascii value of character H in the string is: 72
@@ -1083,7 +1089,7 @@ int main() {
 
 ## OUTPUT:
 ```
-$ Vishal/Records/ ./string_reverse
+$ Nitin/CProjects/ ./string_reverse
 Enter the string: Hello World
 The reversed string is: dlroW olleH
 ```
@@ -1148,7 +1154,7 @@ int main() {
 ```
 ## OUTPUT:
 ```
-$ Vishal/Records/ ./string_compare
+$ Nitin/CProjects/ ./string_compare
 Enter the first string: vishal
 Enter the second string: VISHAL
 The strings are equal
@@ -1205,7 +1211,7 @@ int main() {
 ```
 ## OUTPUT:
 ```
-$ Vishal/Records/ ./remove_vowels
+$ Nitin/CProjects/ ./remove_vowels
 Enter a string: Yoink
 The string after removing vowels is: Ynk
 ```
@@ -1258,7 +1264,7 @@ int main(){
 ## OUTPUT:
 
 ```
-Vishal/Record/ ./rec_print_back
+Nitin/CProjects/ ./rec_print_back
 Enter N: 3
 2
 1
@@ -1309,11 +1315,11 @@ int main(){
 ## OUTPUT:
 
 ```
-Vishal/Record/ .prime_num 
+Nitin/CProjects/ .prime_num 
 Enter N: 47
 Is a Prime
 
-Vishal/Record/ .prime_num
+Nitin/CProjects/ .prime_num
 Enter N: 12
 Not a Prime
 ```
@@ -1321,8 +1327,6 @@ Not a Prime
 ## RESULT:
 
 Hence this function determines whether a given number is prime or not using recursion.
-
-<div style="page-break-after: always"></div>
 
 ## AIM:
 Write a function that calculates the sum of all the elements in a given array using recursion.
@@ -1377,7 +1381,7 @@ int main(){
 ## OUTPUT:
 
 ```
-Vishal/Record/ .rec_sum_arr 
+Nitin/CProjects/ .rec_sum_arr 
 Number of Elements: 3
 ELEM 0: 1
 ELEM 1: 2
@@ -1444,7 +1448,7 @@ int main(){
 ## OUTPUT:
 
 ```
-Vishal/Record/ .rec_str_arr 
+Nitin/CProjects/ .rec_str_arr 
 Number of Elements: 2
 ELEM 0: H
 ELEM 1: I
@@ -1495,7 +1499,7 @@ int main(){
 ## OUTPUT:
 
 ```
-Vishal/Record/ .factorial 
+Nitin/CProjects/ .factorial 
 Number: 4
 Factorial: 24
 ```
@@ -1556,7 +1560,7 @@ int main(){
 ## OUTPUT:
 
 ```
-Vishal/Record/ .fibonacci 
+Nitin/CProjects/ .fibonacci 
 Count: 5
 0 1 1 2 3 5 8 13
 ```
@@ -1621,7 +1625,7 @@ int main(){
 ## OUTPUT:
 
 ```
-Vishal/Record/ .rec_eve_sum_arr 
+Nitin/CProjects/ .rec_eve_sum_arr 
 Number of Elements: 3
 ELEM 0: 1
 ELEM 1: 2
@@ -1728,7 +1732,7 @@ int main(){
 ## OUTPUT:
 
 ```
-$ Vishal/Records ./Transpose
+$ Nitin/CProjects ./Transpose
 Enter ROW and COLUMN: 3 3
 1
 2
@@ -1859,7 +1863,7 @@ int main() {
 ## OUTPUT:
 
 ```
-$ Vishal/Record/ ./union
+$ Nitin/CProjects/ ./union
 Enter the size of the array: 2
 Enter 2 numbers:
 Enter the type of number you want to store:
@@ -1971,7 +1975,7 @@ int main() {
 ## OUTPUT:
 
 ```
-Vishal/Record/ ./Concat
+Nitin/CProjects/ ./Concat
 String One: abc
 String Two: wxyz
 STR_THREE: ayz
@@ -2174,7 +2178,7 @@ int main() {
 
 ## OUTPUT:
 ```
-$ Vishal/Record/ ./restaurant_bill
+$ Nitin/CProjects/ ./restaurant_bill
 1. Add a waiter
 2. Add an item
 3. Add a bill
@@ -2291,7 +2295,7 @@ int main() {
 
 ## OUTPUT:
 ```
-$ Vishal/Record/ ./salary_slip
+$ Nitin/CProjects/ ./salary_slip
 Enter the name of the employee: Aditya
 Enter the ID of the employee: 1
 Enter the basic salary of the employee: 10000
@@ -2300,7 +2304,7 @@ Enter the HRA of the employee: 500
 Enter the PF of the employee: 500
 The salary slip of Aditya is as follows:
 --------------------------------------
- Name: Vishal
+ Name: Nitin
  ID: 1
 -------------------------------------
 | Basic: 10000 | DA: 1000 | HRA: 500 |
@@ -2470,7 +2474,7 @@ int main() {
 ```
 ## OUTPUT:
 ```
-$ Vishal/Record/ ./marksheet
+$ Nitin/CProjects/ ./marksheet
 Enter the number of students: 2
 Enter the name of student 1: Aditya
 Enter the roll number of the student: 1
@@ -2488,10 +2492,10 @@ Enter the gender:
 2. FEMALE
 3. TRANSGENDER
 1
-Enter the name of student 2: Vishal
+Enter the name of student 2: Nitin
 Enter the roll number of the student: 2
 
-Enter the marks of Vishal:
+Enter the marks of Nitin:
 Enter the marks of subject 1: 80
 Enter the marks of subject 2: 90
 Enter the marks of subject 3: 90
@@ -2522,7 +2526,7 @@ Age: 18
 
 
 The details of student 2 are:
-Name: Vishal
+Name: Nitin
 Gender: MALE
 Roll number: 2
 Marks:
@@ -2540,5 +2544,457 @@ Age: 23
 
 ## RESULT:
 The program will get data for n students, compute and display their ranks, and print the mark sheet of a particular student with all their details.
+
+<div style="page-break-after: always"></div>
+
+# FILE HANDLING
+
+## AIM:
+Write a program in C which accepts three file names as command line
+arguments, file1 , file2 and file3 . Copy the contents of file1 to file2 .
+If file1 already exists copy the contents to file2 otherwise display as no
+such file. If file2 already exists, ask the user whether to overwrite the
+existing contents or to append the contents and do accordingly. Now,
+append the details of file3 to file2 and count the number of word
+occurrences in file2
+
+
+## ALGORITHM
+
+1. Include the necessary headers stdio.h and unistd.h
+
+```c
+unistd.h includes file operations and is used to make sure that the file we are accessing actually exists. 
+```
+2. Parse the command line inputs. Check whether file one exists. If file one exists open the second or else throw an error.
+
+3. Check whether file two exists or else create it. If file two exists already ask the user whether to append the contents of file one or overwrite it.
+
+4. Check whether the file three exists if it exists append the contents of file three to file two or else exit the program and throw an error.
+
+## CODE:
+
+```c
+#include<stdio.h>
+#include<unistd.h>
+
+int main(int argc, char* argv[]){
+  int counter = 0;
+  if(access(argv[1], F_OK) == 0){
+    FILE *file_one = fopen(argv[1], "r");
+    if(access(argv[2], F_OK) == 0){
+      char is_append = 0;
+      char copy_chars = 0;
+      printf("\n%s ALREADY EXISTS. SHOULD I APPEND[Y/N]: ", argv[2]);
+      scanf("%c", &is_append);
+      getchar();
+      if(is_append == 'Y'){
+        FILE *file_two = fopen(argv[2], "a+");
+        while((copy_chars = fgetc(file_one)) != EOF){
+          fputc(copy_chars, file_two);
+        }
+        printf("\nFILE APPENDED");
+        fclose(file_two);
+      }else{
+        FILE *file_two = fopen(argv[2], "w+");
+        while((copy_chars = fgetc(file_one)) != EOF){
+          fputc(copy_chars, file_two);
+        }
+        printf("\nFILE OVERWRITTEN");
+        fclose(file_two);
+      }
+      if(access(argv[3], F_OK) == 0){
+        FILE *file_two = fopen(argv[2], "a+");
+        FILE *file_three = fopen(argv[3], "r");
+        while((copy_chars = fgetc(file_three)) != EOF){
+          fputc(copy_chars, file_two);
+        }
+        printf("\nFILE OVERWRITTEN\n");
+        fclose(file_two);
+        fclose(file_three);
+      }else{
+        printf("\n%s DOES NOT EXIST. EXITING!!!\n", argv[3]);
+      }
+    }
+    fclose(file_one);
+  } else {
+    printf("\n[ERROR] FILE DOES NOT EXIST\n");
+  }
+  FILE *file_two = fopen(argv[2], "r");
+  char copy_chars = 0;
+  while((copy_chars = fgetc(file_two)) != EOF){
+    if(copy_chars == ' '){
+      counter++;
+    }
+  }
+  printf("NO OF WORDS: %d ", counter);
+}
+```
+
+## OUTPUT:
+
+```
+Nitin/CProjects/ ./HandleOne FileO.txt FileT.txt FileTh.txt
+
+FileT.txt ALREADY EXISTS. SHOULD I APPEND[Y/N]: Y
+
+FILE APPENDED
+FILE OVERWRITTEN
+NO OF WORDS: 24
+```
+
+## RESULT:
+
+Hence this is a program in C which accepts three file names as command line
+arguments, file1 , file2 and file3 and copies the contents of file1 to file2 .
+If file1 already exists it copies the contents to file2 otherwise it displays as no
+such file. If file2 already exists,it  asks the user whether to overwrite the
+existing contents or to append the contents and do accordingly and it
+appends the details of file3 to file2 and counts the number of word
+occurrences in file2
+
+
+## AIM:
+
+Write an interactive C program to maintain a list of names, addresses and telephone numbers. Store the information as records in a file by representing each record as a structure. Perform the following operations:
+
+1. Add a new record at the end of file
+2. Retrieve and display the entire record for a given name
+3. List all names with their addresses and telephone numbers.
+
+Note: Use 
+```
+fscanf
+```
+and 
+```
+fprintf
+```
+functions for reading and writing to the file.
+
+## ALGORITHM:
+
+1. Define a struct to hold the CProjects Specific Data.
+2. Define three functions. One to add a CProjects. One to get the total records. One to get a specific record based on the Name.
+
+```c
+void add_rec() is used to append a CProjects by opening a file using fopen() in append mode and it gets the required inputs from the user and creates a new structure and assigns the inputs to it and then uses fprintf() to add the details to the opened file which is then closed to avoid memory leaks.
+
+void get_rec() is used to get the total number of CProjects and their information. It opens the file in read mode and uses while loop to traverse through the file and the loop terminates when it reaches the end of file and this function prints out the records and its members.
+
+void get_spec_rec() is the same as get_rec() but it asks for a specific record name from the user and compares it the records in the file using strcmp and if true it prints out the record.
+
+```
+3. Define main procedure and define a switch case inside a while loop controlled by a character-based loop ender and ask the user what he/she wants to do and perform operation and invoke functions depending on his/her choice.
+
+4. End main procedure
+
+## CODE: 
+
+```c
+#include<stdio.h>
+#include <string.h>
+
+typedef struct {
+  char name[100];
+  char address[100];
+  char phone[100];
+} CProjects;
+
+void add_rec(){
+  FILE *txt_file = fopen("File.txt", "a+");
+  CProjects new_rec = {0};
+  printf("******* ADDING A RECORD ********\n");
+  printf("NAME: ");
+  scanf("%s", new_rec.name);
+  getchar();
+  printf("ADDRESS: ");
+  scanf("%s", new_rec.address);
+  getchar();
+  printf("PHONE: ");
+  scanf("%s", new_rec.phone);
+  getchar();
+  fprintf(txt_file, "%s %s %s\n", new_rec.name, new_rec.address, new_rec.phone);
+  printf("******* ADDED THE RECORD ********\n");
+  fclose(txt_file);
+}
+
+void get_rec(){
+  FILE *txt_file = fopen("File.txt", "r");
+  CProjects new_rec;
+  while(!feof(txt_file)){
+    fscanf(txt_file, "%s %s %s", new_rec.name, new_rec.address, new_rec.phone);
+    printf("%s %s %s\n", new_rec.name, new_rec.address, new_rec.phone);
+  }
+  fclose(txt_file);
+}
+
+void get_spec_rec(){
+  FILE *txt_file = fopen("File.txt", "r");
+  CProjects new_rec;
+
+  char name[100];
+  printf("Enter the Name: ");
+  scanf("%s", name);
+  getchar();
+
+  while(!feof(txt_file)){
+    fscanf(txt_file, "%s %s %s", new_rec.name, new_rec.address, new_rec.phone);
+    if(!strcmp(name, new_rec.name)){
+       printf("%s %s %s\n", new_rec.name, new_rec.address, new_rec.phone);
+    }
+  }
+  fclose(txt_file);
+}
+
+int main(void){
+  char end_char = 'Y';
+  char op_char = 'G';
+
+  while(end_char == 'Y'){
+    printf("WHATCHU WANNA DO [ADD/GET/SPECGET]: ");
+    scanf("%c", &op_char);
+    getchar();
+
+    switch(op_char){
+      case 'A':
+        add_rec();
+        break;
+      case 'G':
+        get_rec();
+        break;
+      case 'S':
+        get_spec_rec();
+        break;
+      default:
+        printf("UNKNOWN OPTION\n");
+        break;
+    }
+
+    printf("CONTINUE [Y/N]: ");
+    scanf("%c", &end_char);
+    getchar();
+  }
+}
+```
+
+## OUTPUT:
+
+```c
+$ Nitin/CProjects/ ./Handle
+WHATCHU WANNA DO [ADD/GET/SPECGET]: A
+******* ADDING A RECORD ********
+NAME: Nitin
+ADDRESS: Street
+PHONE: 9840
+******* ADDED THE RECORD ********
+CONTINUE [Y/N]: Y
+WHATCHU WANNA DO [ADD/GET/SPECGET]: G
+Nitin Street 9840
+CONTINUE [Y/N]: Y
+WHATCHU WANNA DO [ADD/GET/SPECGET]: S
+Enter the Name: Nitin
+Nitin Street 9840
+CONTINUE [Y/N]: N
+```
+
+<div style="page-break-after: always"></div>
+
+## RESULT:
+
+Hence this program successfully gets the input from the user and adds the record, gets the record details and searches and prints a specific record.  
+
+<div style="page-break-after: always"></div>
+
+## AIM:
+
+Bob is a librarian. He requires a system that can enable him to add new books, delete any existing book, search for the availability of books, and print all the books. The system should also be able to store the information about the books in a file and read from the file when the program is run. Create a structure called books and store the relevant information, and create separate user-defined functions for performing the above operations. Write a menu-driven program to get a choice from the librarian. Based on his choice, the corresponding functions should be invoked, and the structure should be updated. The program should also save the updated information to the file when the program is closed.
+
+## ALGORITHM:
+
+1. Define a Structure to the hold the Details of the Book. Define four functions. One to add books, one to get the total books added, one to check whether a book is available or not, one to delete the book.
+
+```c
+void add_book() is used to append a Book by opening a file using fopen() in append mode and it gets the required inputs from the user and creates a new structure and assigns the inputs to it and then uses fprintf() to add the details to the opened file which is then closed to avoid memory leaks.
+
+void get_book() is used to get the total number of Books and their information. It opens the file in read mode and uses while loop to traverse through the file and the loop terminates when it reaches the end of file and this function prints out the records and its members.
+
+void check_avail() is the same as get_book() but it asks for a specific book name from the user and compares it the book in the file using strcmp and if true it prints that the book is available.
+
+void delete_book() creates a temporary file and asks the user for which book to delete and appends all the book to the temporary file except the book mentioned by the user for this it used strcmp and then it renames the temporary file to the actual text file in which we stored the information about the books and deletes the past file.
+ 
+int number_of_lines() returns the number of lines in a file. This is used for preventing unneccesary iteration when traversing through a file.
+
+```
+3. Define main procedure and define a switch case inside a while loop controlled by a character-based loop ender and ask the user what he/she wants to do and perform operation and invoke functions depending on his/her choice.
+
+4. End main procedure
+
+
+## CODE:
+
+```c
+
+#include<stdio.h>
+#include<string.h>
+
+// FUNCTION DECLARATIONS
+
+void add_book(); // ADDS A BOOK TO THE RECORD
+void get_book();  // GETS ALL THE AVAILABLE BOOKS
+void check_avail();  // CHECKS WHETHER A BOOK IS AVAILABLE OR NOT
+void delete_book();
+int number_of_lines();
+
+typedef struct{
+  char name[100];
+  char author_name[100];
+} Book;
+
+int main(void){
+  char end_char = 'Y';
+  char op_char = 'G';
+
+  while(end_char == 'Y'){
+    printf("WHATCHU WANNA DO [ADD/GET/CHECK/DELETE/NTH]: ");
+    scanf("%c", &op_char);
+    getchar();
+
+    switch(op_char){
+      case 'A':
+        add_book();
+        break;
+      case 'G':
+        get_book();
+        break;
+      case 'C':
+        check_avail();
+        break;
+      case 'D':
+        delete_book();
+        break;
+      default:
+        printf("UNKNOWN OPTION\n");
+        break;
+    }
+
+    printf("CONTINUE [Y/N]: ");
+    scanf("%c", &end_char);
+    getchar();
+  }
+}
+
+void add_book(){
+  FILE *txt_file = fopen("Book.txt", "a+");
+  Book new_rec = {0};
+  printf("******* ADDING A BOOK ********\n");
+  printf("NAME: ");
+  scanf("%s", new_rec.name);
+  getchar();
+  printf("AUTHOR NAME: ");
+  scanf("%s", new_rec.author_name);
+  getchar();
+  fprintf(txt_file, "%s %s\n", new_rec.name, new_rec.author_name);
+  printf("******* ADDED THE BOOK ********\n");
+  fclose(txt_file);
+}
+
+void get_book(){
+  FILE *txt_file = fopen("Book.txt", "r");
+  Book new_rec;
+  for(int i = 0; i < number_of_lines(); i++){
+    fscanf(txt_file, "%s %s", new_rec.name, new_rec.author_name);
+    printf("%s %s\n", new_rec.name, new_rec.author_name);
+  }
+  fclose(txt_file);
+}
+
+void check_avail(){
+  FILE *txt_file = fopen("Book.txt", "r");
+  Book new_rec;
+
+  char name[100];
+  printf("Enter the Name: ");
+  scanf("%s", name);
+  getchar();
+
+  for(int i = 0; i < number_of_lines(); i++){
+    fscanf(txt_file, "%s %s", new_rec.name, new_rec.author_name);
+    if(!strcmp(name, new_rec.name)){
+       printf("%s is Available XD\n", new_rec.name);
+       break;
+    }
+  }
+  fclose(txt_file);
+}
+
+void delete_book(){
+  char book_name[100];
+  Book new_book;
+
+  printf("BOOK NAME: ");
+  scanf("%s", book_name);
+  getchar();
+
+  FILE *txt_file = fopen("Book.txt", "r");
+  FILE *temp_file = fopen("Temp.txt", "w+");
+  for(int i = 0; i < number_of_lines() + 1; i++){
+    fscanf(txt_file,"%s %s\n", new_book.name, new_book.author_name);
+    if(!strcmp(new_book.name, book_name)){
+      continue;
+    } else {
+      fprintf(temp_file, "%s %s\n", new_book.name, new_book.author_name);
+    }
+  }
+  fclose(txt_file);
+  fclose(temp_file);
+  remove("./Book.txt");
+  rename("./Temp.txt", "Book.txt");
+}
+
+int number_of_lines(){
+  FILE *txt_file = fopen("Book.txt", "r");
+  char temp_char = 0;
+  int count = 0;
+  while((temp_char = fgetc(txt_file)) != EOF){
+    if(temp_char == '\n'){
+      count++;
+    }
+  }
+  fclose(txt_file);
+  return count;
+}
+```
+
+## OUTPUT:
+
+```c
+$ Nitin/CProjects/ WHATCHU WANNA DO [ADD/GET/CHECK/DELETE/NTH]: A
+******* ADDING A BOOK ********
+NAME: Refugee
+AUTHOR NAME: Nitin
+******* ADDED THE BOOK ********
+CONTINUE [Y/N]: Y
+WHATCHU WANNA DO [ADD/GET/CHECK/DELETE/NTH]: G
+Nitin Nitin
+Refugee Nitin
+CONTINUE [Y/N]: Y
+WHATCHU WANNA DO [ADD/GET/CHECK/DELETE/NTH]: D
+BOOK NAME: Nitin
+CONTINUE [Y/N]: Y
+WHATCHU WANNA DO [ADD/GET/CHECK/DELETE/NTH]: C
+Enter the Name: Refugee
+Refugee is Available XD
+CONTINUE [Y/N]: Y
+WHATCHU WANNA DO [ADD/GET/CHECK/DELETE/NTH]: G
+Refugee Nitin
+CONTINUE [Y/N]: N
+```
+
+<div style="page-break-after: always"></div>
+
+## RESULT:
+
+Hence this program successfully gets the input from the user and adds the book, gets the book details and checks for availability and deletes a specific record.  
 
 
